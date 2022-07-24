@@ -1,0 +1,56 @@
+
+.mCards {
+    display: flex;
+    flex-direction: row;
+}
+
+.cards {
+    border: 2px solid black;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.timeText {
+    border: 2px solid black;
+    height: 60px;
+    width: 60px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    background-color: antiquewhite;
+    
+}
+
+.season{
+    border: 2px solid black;
+    height: 60px;
+    width: 60px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+
+.mTimeText{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.storeValue{
+    position: absolute;
+    border: 1px solid black;
+    height: 20px;
+    width: 100px;
+    left: 300px;
+    top: 810px;
+}
+
